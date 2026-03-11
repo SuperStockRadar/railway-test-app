@@ -1,7 +1,7 @@
 {
   "name": "railway-test-app",
   "version": "1.0.0",
-  "description": "My first Railway deployment",
+  "description": "Andrew's first Railway deployment",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
